@@ -1,0 +1,6 @@
+* Variables es una forma de almacenar datos o información en algo para poder usar esa información más adelante.
+	* Strings son cadenas de texto que representan información
+	* Funciones (argumentos, `return`) Las funciones son elementos del código que nos permiten ahorrar tiempo cuando escribimo funcionalidades en nuestro código.
+    los argumentos son valores que introducimos en una funcion. return es una forma en la que los valores escapan de la funcion.
+	* Declaraciones `if` nos permiten determinar que sucedera dependiendo de si un enunciado es verdadero o falso.
+	* Valores booleanos (`true`, `false`) Es un tipo de dato que tiene dos estados: verdadero o falso, encendido o apagado.
